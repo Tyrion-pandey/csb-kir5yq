@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://tyrion-pandey.github.io/csb-kir5yq/static/css/main.e62dcea7.chunk.css",
+    "main.js": "https://tyrion-pandey.github.io/csb-kir5yq/static/js/main.c7e7e98a.chunk.js",
+    "main.js.map": "https://tyrion-pandey.github.io/csb-kir5yq/static/js/main.c7e7e98a.chunk.js.map",
+    "runtime-main.js": "https://tyrion-pandey.github.io/csb-kir5yq/static/js/runtime-main.defd175d.js",
+    "runtime-main.js.map": "https://tyrion-pandey.github.io/csb-kir5yq/static/js/runtime-main.defd175d.js.map",
+    "static/js/2.63e06464.chunk.js": "https://tyrion-pandey.github.io/csb-kir5yq/static/js/2.63e06464.chunk.js",
+    "static/js/2.63e06464.chunk.js.map": "https://tyrion-pandey.github.io/csb-kir5yq/static/js/2.63e06464.chunk.js.map",
+    "index.html": "https://tyrion-pandey.github.io/csb-kir5yq/index.html",
+    "static/css/main.e62dcea7.chunk.css.map": "https://tyrion-pandey.github.io/csb-kir5yq/static/css/main.e62dcea7.chunk.css.map",
+    "static/js/2.63e06464.chunk.js.LICENSE.txt": "https://tyrion-pandey.github.io/csb-kir5yq/static/js/2.63e06464.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.defd175d.js",
+    "static/js/2.63e06464.chunk.js",
+    "static/css/main.e62dcea7.chunk.css",
+    "static/js/main.c7e7e98a.chunk.js"
+  ]
+}
